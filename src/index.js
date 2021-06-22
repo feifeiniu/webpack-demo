@@ -1,1 +1,3 @@
-console.log('hi');
+
+import x from './assets/x.js'
+console.log(x);
